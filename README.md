@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kanchNaik
+- 👀 I’m interested in Software development, ML/AI, Data Analytics, Data Science
+- 🌱 I’m currently learning ML and Data Analytics
+- 💞️ I’m looking to collaborate on ML, AI, and Data Analytics projects
+- 📫 Reach me at kanchannaik55@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to do crochet art.
